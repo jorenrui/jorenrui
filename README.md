@@ -4,7 +4,7 @@ I'm a Full Stack Developer who has a thing for simplicity, knowledge, and proble
 
 - 💼 I currently work as a **Full Stack Developer**.
 - 🤓 I'm currently learning **Rails** and **GraphQL**.
-- 📚 I'm currently reading **The Odyssey**.
+- 📚 I'm currently reading **Mythology: Timeless Tales of Gods and Heroes** by Edith Hamilton.
 
 ### 📬 Get in Touch
 
@@ -13,3 +13,4 @@ I'm a Full Stack Developer who has a thing for simplicity, knowledge, and proble
 - 📸 Instagram: https://www.instagram.com/jorenrui/
 - 👩‍💼 LinkedIn: https://www.linkedin.com/in/jorenrui/
 - ✍️ DEV.to: https://dev.to/jorenrui
+- 🖋 Figma: https://www.figma.com/@jorenrui
