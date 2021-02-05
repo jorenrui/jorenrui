@@ -2,9 +2,15 @@
 
 I'm a Full Stack Developer who has a thing for simplicity, knowledge, and problem solving ✨ Currently, I'm in the realm of TypeScript, NextJS, NodeJS, and Rails.
 
-- 💼 I currently work as a **Full Stack Developer**.
+- 💼 Am currently busy building [Sutle](https://sutle.io/)
 - 🤓 I'm currently learning **Rails** and **GraphQL**.
-- 📚 I'm currently reading **Mythology: Timeless Tales of Gods and Heroes** by Edith Hamilton.
+- 📚 I'm currently taking **Fullstack Advanced React and GraphQL** by Wes Bos.
+
+### 📰 Recent News
+
+- I just resigned this Jan 2021 and planning to work on **Sutle** for two months before getting a new job.
+- I finished reading the Mythology book by Edith Hamilton.
+- Bought Last of Us on PS4 yey.
 
 ### 📬 Get in Touch
 
