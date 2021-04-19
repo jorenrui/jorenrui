@@ -8,7 +8,7 @@ I'm a Full Stack Developer who has a thing for simplicity, knowledge, and proble
 
 ### 📰 Recent News
 
-- I just resigned this Jan 2021 and planning to work on **Sutle** for two months before getting a new job.
+- Got my 2nd job as a Full Stack Developer at an early-stage startup.
 - I finished reading the Mythology book by Edith Hamilton.
 - Currently playing Last of Us II.
 
