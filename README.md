@@ -8,9 +8,8 @@ I'm a Full Stack Developer who has a thing for simplicity, knowledge, and proble
 
 ### 📰 Recent News
 
+- [Sutle](https://sutle.io/) is now on its closed alpha release.
 - Got my 2nd job as a Full Stack Developer at an early-stage startup.
-- I finished reading the Mythology book by Edith Hamilton.
-- Currently playing Last of Us II.
 
 ### 📬 Get in Touch
 
