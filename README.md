@@ -14,6 +14,7 @@ I'm a Full Stack Developer who has a thing for simplicity, knowledge, and proble
 ### 📬 Get in Touch
 
 - 👩 Portfolio: https://jorenrui.netlify.app/
+- 🔥 Sutle Portfolio: https://sutle.io/jorenrui
 - 🐦 Twitter: https://twitter.com/jorenrui/
 - 📸 Instagram: https://www.instagram.com/jorenrui/
 - 👩‍💼 LinkedIn: https://www.linkedin.com/in/jorenrui/
