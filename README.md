@@ -8,7 +8,8 @@ I'm a Full Stack Developer who has a thing for simplicity, knowledge, and proble
 
 ### 📰 Recent News
 
-- [Sutle](https://sutle.io/) is now on its closed alpha release.
+- [Sutle](https://sutle.io/) is now on its alpha release.
+- Made a Jorenrui Discord Community. You can join [here](https://discord.gg/9PzEBmRbrM) to get updates on what I'm currently and planning to work on.
 - Got my 2nd job as a Full Stack Developer at an early-stage startup.
 
 ### 📬 Get in Touch
