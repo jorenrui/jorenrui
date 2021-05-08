@@ -21,3 +21,4 @@ I'm a Full Stack Developer who has a thing for simplicity, knowledge, and proble
 - 👩‍💼 LinkedIn: https://www.linkedin.com/in/jorenrui/
 - ✍️ DEV.to: https://dev.to/jorenrui
 - 🖋 Figma: https://www.figma.com/@jorenrui
+- 💰 Love my work? You can support me by donating at https://www.buymeacoffee.com/jorenrui
