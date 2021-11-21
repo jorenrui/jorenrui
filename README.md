@@ -7,16 +7,17 @@ I'm a Full Stack Developer who has a thing for simplicity, knowledge, and proble
 I help build MVPs of no-code tools and EdTech products. Interested in startups, product dev & design, and building a community. Experimenting on different ways of creating content starting with streaming on Twitch and writing at my Broken Rewind substack.
 
 - 💼 Am currently busy building [Sutle](https://sutle.io/) and [Minorui](https://github.com/jorenrui/minorui)
-- 👾 I'm streaming Persona 5 on [Twitch](https://twitch.tv/jorenrui/)
+- 👾 I'm streaming [God of War III](https://www.twitch.tv/collections/9HkzxY9euRan7A), [Persona 5: Royal](https://www.twitch.tv/collections/MqwbWZCRmxa4nA), and [Stardew Valley](https://www.twitch.tv/collections/ZwFkt9w4sBarzg) on [Twitch](https://www.twitch.tv/jorenrui).
 - 🤓 I'm currently learning more about **React**, and **Ruby**.
 
 ### 📰 Recent News
 
-- Became an affiliate on [Twitch](https://twitch.tv/jorenrui/).
+- Wrote a short story entitled [False Hope](https://www.notion.so/False-Hope-980a971941f14b6eb56c7fec0f4fc1e4).
+- Doodled some [Persona 5 emotes](https://twitter.com/joeirui/status/1462304540154220546?s=20).
+- Made an [Apex Legend Site](https://github.com/jorenrui/apex-legends-site).
+- Recently finished playing [God of War (2018)](https://www.twitch.tv/collections/hh78TI0RnRZG9Q) and [Catherine: Full Body](https://www.twitch.tv/collections/0ofnEie-tBbPzA).
 - [Sutle](https://sutle.io/) is now on its alpha release.
-- Made a Jorenrui Discord Community. You can join [here](https://discord.gg/9PzEBmRbrM).
 - Got my 2nd job as a Full Stack Developer at an early-stage startup.
-- Started a substack called [Broken Rewind](https://brokenrewind.substack.com/)
 
 ### 📬 Get in Touch
 
