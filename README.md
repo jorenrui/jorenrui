@@ -12,6 +12,9 @@ I help build MVPs of no-code tools and EdTech products. Interested in startups, 
 
 ### 📰 Recent News
 
+- Been busy coding something hehe.
+- Wrote a poem entitled [Thirst](https://www.notion.so/Thirst-3d2872a18440411e8671e62cebde9979).
+- Drew a [Kratos Boi Emote](https://www.notion.so/Kratos-Boi-Emote-5f1e25212d6d4b279c1124ff1390d404) and [Ryuji "For Real?!" Emote](https://www.notion.so/Ryuji-For-Real-Emote-7e618923f12f46728efcd2148d6510ba).
 - Wrote a short story entitled [False Hope](https://www.notion.so/False-Hope-980a971941f14b6eb56c7fec0f4fc1e4).
 - Doodled some [Persona 5 emotes](https://twitter.com/joeirui/status/1462304540154220546?s=20).
 - Made an [Apex Legend Site](https://github.com/jorenrui/apex-legends-site).
@@ -21,7 +24,8 @@ I help build MVPs of no-code tools and EdTech products. Interested in startups, 
 
 ### 📬 Get in Touch
 
-- 👩 Portfolio: https://jorenrui.netlify.app/
+- 🥴 Personal Site: https://jorenrui.notion.site/
+- 👩 Dev Portfolio: https://jorenrui.netlify.app/
 - 🔥 My Journey: https://sutle.io/jorenrui
 - 🐦 Twitter: https://twitter.com/jorenrui/
 - 📸 Instagram: https://www.instagram.com/jorenrui/
