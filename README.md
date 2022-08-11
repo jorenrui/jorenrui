@@ -1,19 +1,20 @@
 # Yo everyone 😎
 
-I'm jorenrui. Tho you can call me Joei or Rui. A full stack developer with 2+ years of professional experience who has TailwindCSS, TypeScript, ReactJS, NodeJS and Rails in her toolbelt.
+CV: [jorenrui](https://read.cv/jorenrui)
 
-I'm currently a Senior Product Engineer working on [Powerbase](https://trypowerbase.com/), a no-code database, at [Group One](https://www.notion.so/Group-One-664f9b86789f44b3a09c3228180838c4). Before I've worked on the profile, on-demand courses and event management at [Lyon](https://lyon.com.ph/). I've also designed and coded the front-end of the collaboration app at QuadraLogix.
+I'm jorenrui. A full stack developer with 2+ years of professional experience who has TailwindCSS, TypeScript, ReactJS, NextJS and Rails in her toolbelt.
 
-On the side, I stream games on [Twitch](https://www.twitch.tv/jorenrui/). I also work on my side projects like [Sutle](https://sutle.io/), a platform for saving and organizing online resources into a directed learning path  and it got featured on [Product Hunt on May 1, 2021](https://www.producthunt.com/posts/sutle), [Norui](https://www.notion.so/Norui-18f756ed46074d78892957cd52922bfb) , which houses Notion API powered sites I've created, and [Dayly](https://www.notion.so/Dayly-6b66f093e3df4938b5eb8b6b656d86a5) , a private journal of mine.
+Uses code to solve mostly my own problems. Loves simplicity, focusing on the essentials, and building products. Specializes in code but also interested in a *lot* of different things.
 
-At rare times, I become like a [a writer.](https://www.notion.so/a-writer-7220e5b54b284f8299abda550f054295) making some poems and short stories, or an [](https://www.notion.so/d4660cca79954e1da97cc1570680dc26)
+I'm currently a IC Sr. Product Engineer working on [Powerbase](https://trypowerbase.com/), a no-code database, and work on some browser-based minecraft game at Group One. Before, I've worked on the profile, on-demand courses and event management at [Lyon](https://lyon.com.ph/).
 
-- 💼 Am currently busy building [Sutle](https://sutle.io/), [Norui](https://www.notion.so/Norui-18f756ed46074d78892957cd52922bfb) and [Dayly](https://www.notion.so/Dayly-6b66f093e3df4938b5eb8b6b656d86a5)
-- 👾 I'm streaming Persona 5: Royal and Horizon Zero Dawn on [Twitch](https://www.twitch.tv/jorenrui).
-- 🤓 I'm currently learning more about **React**, and **Ruby**.
+On the side, I play games and read books. Most of the times I'm focused re-designing/rewriting my fav side project, sutle.io, a platform for saving and organizing online resources into a directed learning path. Another hobby project I'm working on is Dayly, a private journal of mine.
+
+Currently, I'm learning more about ReactJS, ThreeJS and currently Swift/IOS (cause might get a work project on that in the near future). Tho I still specialize in web mainly ReactJS and Rails above all else. I'm just open to learning other techs. Besides that, I'm learning how to cook and play the piano.
 
 # 📰  Recent News
 
+- Been [redesigning and rewriting Sutle](https://www.linkedin.com/feed/update/urn:li:activity:6962253227534815232/).
 - Been promoted to Senior Product Engineer
 - Been busy coding [Dayly](https://www.notion.so/Dayly-6b66f093e3df4938b5eb8b6b656d86a5).
 - Built [Minimal Norui](https://www.notion.so/Minimal-Norui-168e69403f624b429e7933ce6065b5e7).
@@ -34,12 +35,9 @@ At rare times, I become like a [a writer.](https://www.notion.so/a-writer-7220e5
 
 - 🥴 Personal Site: https://jorenrui.notion.site/
 - 👩 Dev Portfolio: https://jorenrui.netlify.app/
-- 🔥 My Journey: https://sutle.io/jorenrui
 - 🐦 Twitter: https://twitter.com/jorenrui/
 - 📸 Instagram: https://www.instagram.com/jorenrui/
 - 👩‍💼 LinkedIn: https://www.linkedin.com/in/jorenrui/
 - ✍️ DEV.to: https://dev.to/jorenrui
 - 🖋 Figma: https://www.figma.com/@jorenrui
-- 📰 Broken Rewind Substack: https://brokenrewind.substack.com/
-- 👾 Twitch: https://twitch.tv/jorenrui/
 - 💰 Love my work? You can support me by donating at https://www.buymeacoffee.com/jorenrui
