@@ -6,15 +6,17 @@ I'm jorenrui. A full stack developer with 2+ years of professional experience wh
 
 Uses code to solve mostly my own problems. Loves simplicity, focusing on the essentials, and building products. Specializes in code but also interested in a *lot* of different things.
 
-I'm currently a IC Sr. Product Engineer working on [Powerbase](https://trypowerbase.com/), a no-code database, and work on some browser-based minecraft game at Group One. Before, I've worked on the profile, on-demand courses and event management at [Lyon](https://lyon.com.ph/).
+I'm currently a IC Sr. Product Engineer working on a browser-based Minecraft ThreeJS game, and [Powerbase](https://trypowerbase.com/), a no-code database, at Group One. Before, I've worked on the profile, on-demand courses and event management at [Lyon](https://lyon.com.ph/).
 
-On the side, I play games and read books. Most of the times I'm focused re-designing/rewriting my fav side project, sutle.io, a platform for saving and organizing online resources into a directed learning path. Another hobby project I'm working on is Dayly, a private journal of mine.
+On the side, I play games and read books. Most of the times I'm focused re-designing/rewriting my fav side project, [Sutle](https://sutle.io), a platform for saving and organizing online resources into a directed learning path. Another hobby project I'm working on is Dayly, a private journal of mine.
 
-Currently, I'm learning more about ReactJS, ThreeJS and currently Swift/IOS (cause might get a work project on that in the near future). Tho I still specialize in web mainly ReactJS and Rails above all else. I'm just open to learning other techs. Besides that, I'm learning how to cook and play the piano.
+Currently, I'm learning more about ReactJS, and ThreeJS. Tho I still specialize in web mainly ReactJS and Rails above all else. I'm just open to learning other techs. Besides that, I'm learning how to cook and play the piano.
 
 # 📰  Recent News
 
-- Been [redesigning and rewriting Sutle](https://www.linkedin.com/feed/update/urn:li:activity:6962253227534815232/).
+- [Sutle is now on beta](https://blog.sutle.io/2022/sutle-beta-a-fresh-redesign).
+- Recently finished playing Life is Strange True Colors.
+- Built a mini Minecraft clone called [Minecrafui](https://github.com/jorenrui/minecrafui).
 - Been promoted to Senior Product Engineer
 - Been busy coding [Dayly](https://www.notion.so/Dayly-6b66f093e3df4938b5eb8b6b656d86a5).
 - Built [Minimal Norui](https://www.notion.so/Minimal-Norui-168e69403f624b429e7933ce6065b5e7).
