@@ -6,19 +6,20 @@ I'm jorenrui. A full stack developer with 2+ years of professional experience wh
 
 Uses code to solve mostly my own problems. Loves simplicity, focusing on the essentials, and building products. Specializes in code but also interested in a *lot* of different things.
 
-I'm currently a IC Sr. Product Engineer working on a browser-based Minecraft ThreeJS game, and [Powerbase](https://trypowerbase.com/), a no-code database, at Group One. Before, I've worked on the profile, on-demand courses and event management at [Lyon](https://lyon.com.ph/).
+I'm currently a IC Sr. Product Engineer working on a browser-based sandbox ThreeJS game for Soda Labs, and [Powerbase](https://trypowerbase.com/), a no-code database, at Tonic Labs. Before, I've worked on the profile, on-demand courses and event management at [Lyon](https://lyon.com.ph/).
 
-On the side, I play games and read books. Most of the times I'm focused re-designing/rewriting my fav side project, [Sutle](https://sutle.io), a platform for saving and organizing online resources into a directed learning path. Another hobby project I'm working on is Dayly, a private journal of mine.
+On the side, I play games and read books. Most of the times I'm working on my fav side project, [Sutle](https://sutle.io), a platform for saving and organizing online resources into a directed learning path. Another hobby project I'm working on is Setti (still a secret, currently building an MVP).
 
 Currently, I'm learning more about ReactJS, and ThreeJS. Tho I still specialize in web mainly ReactJS and Rails above all else. I'm just open to learning other techs. Besides that, I'm learning how to cook and play the piano.
 
-# 📰  Recent News
+# 📰 Recent News
 
+- Started working on a new dev project called Setti.
 - [Sutle is now on beta](https://blog.sutle.io/2022/sutle-beta-a-fresh-redesign).
 - Recently finished playing Life is Strange True Colors.
 - Built a mini Minecraft clone called [Minecrafui](https://github.com/jorenrui/minecrafui).
 - Been promoted to Senior Product Engineer
-- Been busy coding [Dayly](https://www.notion.so/Dayly-6b66f093e3df4938b5eb8b6b656d86a5).
+- Been busy coding Dayly, a diary app (Discontinued cause I came to love using [Obsidian](https://obsidian.md))
 - Built [Minimal Norui](https://www.notion.so/Minimal-Norui-168e69403f624b429e7933ce6065b5e7).
 - Tried out the Daily UI Challenge and designed a [Sign Up Form](https://www.notion.so/Sign-Up-Form-15944fe543c348e5bfdf3f93c77b14a2) and a [Credit Card Checkout](https://www.notion.so/Credit-Card-Checkout-bdbdbc62418a4a8da6ab034671d30b69).
 - Built a [Piano Lesson Helper](https://www.notion.so/Piano-Lesson-Helper-6fdec92df8a14314921c0026efa9c518).
@@ -32,6 +33,14 @@ Currently, I'm learning more about ReactJS, and ThreeJS. Tho I still specialize 
 - Got my 2nd job as a Full Stack Developer at an early-stage startup.
 
 [Read more](https://www.polywork.com/jorenrui/)
+
+### Projects
+
+- [Sutle](https://sutle.io/) - platform for saving and organizing online resources into a directed learning path.
+- [Sutle Blog](https://blog.sutle.io/) - blog site for Sutle.
+- [Minecrafui](https://github.com/jorenrui/minecrafui) - simple Minecraft ThreeJS clone.
+- Setti - still building stuff.
+- New Portfolio - cause current one is so outdated.
 
 ### 📬 Get in Touch
 
