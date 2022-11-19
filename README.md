@@ -38,7 +38,7 @@ Currently at [Tonic Labs](http://toniclabs.ltd/), previously [Lyon](https://lyo
 - [Sutle Blog](https://blog.sutle.io/) - blog site for Sutle.
 - [Minecrafui](https://github.com/jorenrui/minecrafui) - simple Minecraft ThreeJS clone.
 - Setti - still building stuff.
-- New Portfolio - cause current one is so outdated.
+- New Portfolio - still building stuff and writing case studies for it.
 
 ### 📬 Get in Touch
 
