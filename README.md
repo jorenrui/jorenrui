@@ -1,20 +1,18 @@
 # Yo everyone 😎
 
-CV: [jorenrui](https://read.cv/jorenrui)
+Currently a Sr. IC Product Engineer working on a ThreeJS browser-based sandbox game and a no-code database. I'm experienced with building products from the ground up due to working with early-stage startups.
 
-I'm jorenrui. A full stack developer with 2+ years of professional experience who has TailwindCSS, TypeScript, ReactJS, NextJS and Rails in her toolbelt.
+On the side, I'm building sutle.io, a platform for organizing resources into a directed learning path. I'm also building an MVP for a secret vault app idea of mine.
 
-Uses code to solve mostly my own problems. Loves simplicity, focusing on the essentials, and building products. Specializes in code but also interested in a *lot* of different things.
+Mainly uses ReactJS, TypeScript, TailwindCSS, PostreSQL, and Rails but open to learning new things.
 
-I'm currently a IC Sr. Product Engineer working on a browser-based sandbox ThreeJS game for Soda Labs, and [Powerbase](https://trypowerbase.com/), a no-code database, at Tonic Labs. Before, I've worked on the profile, on-demand courses and event management at [Lyon](https://lyon.com.ph/).
-
-On the side, I play games and read books. Most of the times I'm working on my fav side project, [Sutle](https://sutle.io), a platform for saving and organizing online resources into a directed learning path. Another hobby project I'm working on is Setti (still a secret, currently building an MVP).
-
-Currently, I'm learning more about ReactJS, and ThreeJS. Tho I still specialize in web mainly ReactJS and Rails above all else. I'm just open to learning other techs. Besides that, I'm learning how to cook and play the piano.
+Currently at [Tonic Labs](http://toniclabs.ltd/), previously [Lyon](https://lyon.com.ph/).
 
 # 📰 Recent News
 
+- Wrote [Sutle Changelog #001](https://blog.sutle.io/2022/001-changelog).
 - Started working on a new dev project called Setti.
+- Started playing God of War Ragranok, streaming on Twitch.
 - [Sutle is now on beta](https://blog.sutle.io/2022/sutle-beta-a-fresh-redesign).
 - Recently finished playing Life is Strange True Colors.
 - Built a mini Minecraft clone called [Minecrafui](https://github.com/jorenrui/minecrafui).
@@ -44,8 +42,8 @@ Currently, I'm learning more about ReactJS, and ThreeJS. Tho I still specialize 
 
 ### 📬 Get in Touch
 
-- 🥴 Personal Site: https://jorenrui.notion.site/
-- 👩 Dev Portfolio: https://jorenrui.netlify.app/
+- 👩 Dev Portfolio: https://joeylene.com
+- 🧬 CV: https://read.cv/jorenrui
 - 🐦 Twitter: https://twitter.com/jorenrui/
 - 📸 Instagram: https://www.instagram.com/jorenrui/
 - 👩‍💼 LinkedIn: https://www.linkedin.com/in/jorenrui/
