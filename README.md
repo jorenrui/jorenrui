@@ -10,12 +10,15 @@ Currently at [Tonic Labs](http://toniclabs.ltd/), previously [Lyon](https://lyo
 
 # 📰 Recent News
 
+- Published [Creating my own UI components](https://joeylene.com/blog/2022/creating-my-own-ui-components)
+- Started learning Unity.
+- Currently playing Life is Strange 2.
 - Published [Progressing Towards Dystopia](https://joeylene.com/blog/2022/progressing-towards-dystopia).
 - Published [Copy Paste - Glide Data Grid](https://joeylene.com/blog/2022/copy-paste-data-grid).
 - New portfolio at [https://joeylene.com](https://joeylene.com/).
 - Wrote [Sutle Changelog #001](https://blog.sutle.io/2022/001-changelog).
-- Started working on a new dev project called Setti.
 - Started playing God of War Ragranok, streaming on Twitch.
+- Finished playing Persona 5 Royal.
 - [Sutle is now on beta](https://blog.sutle.io/2022/sutle-beta-a-fresh-redesign).
 - Recently finished playing Life is Strange True Colors.
 - Built a mini Minecraft clone called [Minecrafui](https://github.com/jorenrui/minecrafui).
@@ -28,7 +31,6 @@ Currently at [Tonic Labs](http://toniclabs.ltd/), previously [Lyon](https://lyo
 - [Sutle Blog](https://blog.sutle.io/) - blog site for Sutle.
 - [Minecrafui](https://github.com/jorenrui/minecrafui) - simple Minecraft ThreeJS clone.
 - [New Portfolio](https://joeylene.com/) - still building stuff and writing case studies for it.
-- Setti - still building stuff.
 
 ## Studying
 
@@ -40,6 +42,7 @@ Currently at [Tonic Labs](http://toniclabs.ltd/), previously [Lyon](https://lyo
 
 - 👩 Dev Portfolio: https://joeylene.com
 - 🧬 CV: https://read.cv/jorenrui
+- 👩‍💻 Mastadon: https://techhub.social/@jorenrui
 - 🐦 Twitter: https://twitter.com/jorenrui/
 - 📸 Instagram: https://www.instagram.com/jorenrui/
 - 👩‍💼 LinkedIn: https://www.linkedin.com/in/jorenrui/
