@@ -10,9 +10,11 @@ Currently at [Tonic Labs](http://toniclabs.ltd/), previously [Lyon](https://lyo
 
 # 📰 Recent News
 
+- Published [2022 Year End Review](https://joeylene.com/blog/2023/year-end-review)
+- Done playing Life is Strange 2.
+- Done reading Lives of the Stoics.
 - Published [Creating my own UI components](https://joeylene.com/blog/2022/creating-my-own-ui-components)
 - Started learning Unity.
-- Currently playing Life is Strange 2.
 - Published [Progressing Towards Dystopia](https://joeylene.com/blog/2022/progressing-towards-dystopia).
 - Published [Copy Paste - Glide Data Grid](https://joeylene.com/blog/2022/copy-paste-data-grid).
 - New portfolio at [https://joeylene.com](https://joeylene.com/).
@@ -43,7 +45,6 @@ Currently at [Tonic Labs](http://toniclabs.ltd/), previously [Lyon](https://lyo
 - 👩 Dev Portfolio: https://joeylene.com
 - 🧬 CV: https://read.cv/jorenrui
 - 👩‍💻 Mastadon: https://techhub.social/@jorenrui
-- 🐦 Twitter: https://twitter.com/jorenrui/
-- 📸 Instagram: https://www.instagram.com/jorenrui/
-- 👩‍💼 LinkedIn: https://www.linkedin.com/in/jorenrui/
-- 💰 Love my work? You can support me by donating at https://www.buymeacoffee.com/jorenrui
+- 🐦 Twitter: https://twitter.com/jorenrui
+- 📸 Instagram: https://www.instagram.com/jorenrui
+- 👩‍💼 LinkedIn: https://www.linkedin.com/in/jorenrui
