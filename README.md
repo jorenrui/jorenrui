@@ -2,9 +2,9 @@
 
 Currently a Sr. IC Product Engineer working on a ThreeJS browser-based sandbox game and a no-code database. I'm experienced with building products from the ground up due to working with early-stage startups.
 
-On the side, I'm building sutle.io, a platform for organizing resources into a directed learning path. I'm also building an MVP for a secret vault app idea of mine.
+On the side, I'm building sutle.io, a platform for organizing resources into a directed learning path.
 
-Mainly uses ReactJS, TypeScript, TailwindCSS, PostreSQL, and Rails but open to learning new things.
+Mainly uses ReactJS, TypeScript, TailwindCSS, PostreSQL, and Rails but open to learning new things. Currently dabbling on Unity.
 
 Currently at [Tonic Labs](http://toniclabs.ltd/), previously [Lyon](https://lyon.com.ph/).
 
@@ -36,6 +36,7 @@ Currently at [Tonic Labs](http://toniclabs.ltd/), previously [Lyon](https://lyo
 
 ## Studying
 
+- Joy of React - https://www.joyofreact.com/
 - Epic React Dev - https://epicreact.dev/
 - ThreeJS Journey - https://threejs-journey.com/
 - Learn Unity - https://learn.unity.com/
