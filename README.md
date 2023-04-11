@@ -6,7 +6,7 @@ Uses code to solve mostly my own problems. Loves simplicity, focusing on the ess
 
 I'm currently a IC Sr. Product Engineer working on a browser-based sandbox game, and a no-code database, at [Tonic Labs](http://toniclabs.ltd/). Before, I've worked on the profile, on-demand courses and event management at [Lyon](https://lyon.com.ph/).
 
-On the side, I play games and read books. Most of the times I'm focused working on side projects, sutle.io, a platform for saving and organizing online resources into a directed learning path and a UI library.
+On the side, I play games and read books. Most of the times I'm focused working on my side projects, sutle.io, a platform for saving and organizing online resources into a directed learning path and a UI library.
 
 Currently, I'm learning more about ReactJS, and ThreeJS. Tho I still specialize in web mainly ReactJS and Rails above all else. I'm just open to learning other tech.
 
