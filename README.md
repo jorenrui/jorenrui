@@ -1,15 +1,21 @@
 # Yo everyone 😎
 
-Currently a Sr. IC Product Engineer working on a ThreeJS browser-based sandbox game and a no-code database. I'm experienced with building products from the ground up due to working with early-stage startups.
+I'm jorenrui. Product-focused full stack developer with 3 years of professional experience who has TailwindCSS, TypeScript, ReactJS, NextJS and Rails in her toolbelt.
 
-On the side, I'm building sutle.io, a platform for organizing resources into a directed learning path.
+Uses code to solve mostly my own problems. Loves simplicity, focusing on the essentials, and building products. Specializes in code but also interested in a *lot* of different things.
 
-Mainly uses ReactJS, TypeScript, TailwindCSS, PostreSQL, and Rails but open to learning new things. Currently dabbling on Unity.
+I'm currently a IC Sr. Product Engineer working on a browser-based sandbox game, and a no-code database, at [Tonic Labs](http://toniclabs.ltd/). Before, I've worked on the profile, on-demand courses and event management at [Lyon](https://lyon.com.ph/).
 
-Currently at [Tonic Labs](http://toniclabs.ltd/), previously [Lyon](https://lyon.com.ph/).
+On the side, I play games and read books. Most of the times I'm focused working on side projects, sutle.io, a platform for saving and organizing online resources into a directed learning path and a UI library.
+
+Currently, I'm learning more about ReactJS, and ThreeJS. Tho I still specialize in web mainly ReactJS and Rails above all else. I'm just open to learning other tech.
 
 # 📰 Recent News
 
+- Working on a UI library.
+- Started going to gym and bike riding.
+- Done playing Dying Light.
+- Published [Archiving the Web](https://joeylene.com/blog/2023/archiving-the-web)
 - Published [2022 Year End Review](https://joeylene.com/blog/2023/year-end-review)
 - Done playing Life is Strange 2.
 - Done reading Lives of the Stoics.
@@ -29,8 +35,8 @@ Currently at [Tonic Labs](http://toniclabs.ltd/), previously [Lyon](https://lyo
 
 ### Projects
 
+- UI Library - *coming soon*
 - [Sutle](https://sutle.io/) - platform for saving and organizing online resources into a directed learning path.
-- [Sutle Blog](https://blog.sutle.io/) - blog site for Sutle.
 - [Minecrafui](https://github.com/jorenrui/minecrafui) - simple Minecraft ThreeJS clone.
 - [New Portfolio](https://joeylene.com/) - still building stuff and writing case studies for it.
 
