@@ -4,7 +4,7 @@ I'm jorenrui. Product-focused full stack developer with 3+ years of professional
 
 Uses code to solve mostly my own problems. Loves simplicity, focusing on the essentials, and building products. Specializes in code but also interested in a *lot* of different things.
 
-Worked as a IC Sr. Product Engineer working on a [browser-based sandbox game](https://joeylene.com/projects/novablocks), and a [no-code database](https://joeylene.com/projects/powerbase), at [Tonic Labs](https://workwithtonic.com/). Before, I've worked on the profile, on-demand courses and event management at [Lyon](https://lyon.com.ph/).
+Worked as a IC Sr. Product Engineer working on a browser-based sandbox game, and a no-code database, at [Tonic Labs](https://workwithtonic.com/). Before, I've worked on the profile, on-demand courses and event management at [Lyon](https://lyon.com.ph/).
 
 On the side, I play games and read books. Most of the times I'm focused working on my side projects, [sutle.io](https://sutle.io/), a platform for saving and organizing online resources into a directed learning path and a UI library.
 
@@ -13,7 +13,6 @@ Currently, I'm learning more about ReactJS, and ThreeJS. Tho I still specialize 
 # 📰 Recent News
 
 - Working on a UI library.
-- Writing [projects posts for my portfolio](https://joeylene.com/projects/novablocks).
 - Started going to the gym and traveling within the country.
 - Done playing Dying Light.
 - Published [Archiving the Web](https://joeylene.com/blog/2023/archiving-the-web)
