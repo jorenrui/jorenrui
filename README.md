@@ -1,18 +1,18 @@
 # Yo everyone 😎
 
-I'm jorenrui. Product-focused full stack developer with 3+ years of professional experience who has TailwindCSS, TypeScript, ReactJS, NextJS and Rails in her toolbelt.
+I'm jorenrui. Product-focused full stack developer with 3.5+ years of professional experience who has TailwindCSS, TypeScript, ReactJS, NextJS and Rails in her toolbelt.
 
 Uses code to solve mostly my own problems. Loves simplicity, focusing on the essentials, and building products. Specializes in code but also interested in a *lot* of different things.
 
 Worked as a IC Sr. Product Engineer working on a browser-based sandbox game, and a no-code database, at [Tonic Labs](https://workwithtonic.com/). Before, I've worked on the profile, on-demand courses and event management at [Lyon](https://lyon.com.ph/).
 
-On the side, I play games and read books. Most of the times I'm focused working on my side projects, [sutle.io](https://sutle.io/), a platform for saving and organizing online resources into a directed learning path and a UI library.
+On the side, I play games and read books. Most of the times I'm focused working on my side projects, [sutle.io](https://sutle.io/), a platform for saving and organizing online resources into a directed learning path and [Suikun UI](https://suikunui.joeylene.com/), a work-in-progress UI kit.
 
 Currently, I'm learning more about ReactJS, and ThreeJS. Tho I still specialize in web mainly ReactJS and Rails above all else. I'm just open to learning other tech.
 
 # 📰 Recent News
 
-- Working on a UI library.
+- Working on [Suikun UI](https://suikunui.joeylene.com/).
 - Started going to the gym and traveling within the country.
 - Done playing Dying Light.
 - Published [Archiving the Web](https://joeylene.com/blog/2023/archiving-the-web)
@@ -35,7 +35,7 @@ Currently, I'm learning more about ReactJS, and ThreeJS. Tho I still specialize 
 
 ### Projects
 
-- UI Library - *coming soon*
+- [Suikun UI](https://suikunui.joeylene.com/) - a work-in-progress UI kit.
 - [Sutle](https://sutle.io/) - platform for saving and organizing online resources into a directed learning path.
 - [Minecrafui](https://github.com/jorenrui/minecrafui) - simple Minecraft ThreeJS clone.
 - [Portfolio](https://joeylene.com/) - still building stuff and writing posts for it.
