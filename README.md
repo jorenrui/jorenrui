@@ -1,17 +1,22 @@
 # Yo everyone 😎
 
-I'm jorenrui. Product-focused full stack developer with 3.5+ years of professional experience who has TailwindCSS, TypeScript, ReactJS, NextJS and Rails in her toolbelt.
+I'm jorenrui. Product-focused full stack developer with 3.5+ years of professional experience who has TailwindCSS, TypeScript, React.js, Next.js and Rails in her toolbelt.
 
 Uses code to solve mostly my own problems. Loves simplicity, focusing on the essentials, and building products. Specializes in code but also interested in a *lot* of different things.
 
-Worked as a IC Sr. Product Engineer working on a browser-based sandbox game, and a no-code database, at [Tonic Labs](https://workwithtonic.com/). Before, I've worked on the profile, on-demand courses and event management at [Lyon](https://lyon.com.ph/).
+Currently working as a Sr. IC Product Engineer on a ThreeJS browser-based sandbox game at BrownBricks, previously at [Tonic Labs](https://workwithtonic.com/).
 
-On the side, I play games and read books. Most of the times I'm focused working on my side projects, [sutle.io](https://sutle.io/), a platform for saving and organizing online resources into a directed learning path and [Suikun UI](https://suikunui.joeylene.com/), a work-in-progress UI kit.
+I'm experienced with building products from the ground up due to working with early-stage startups.
 
-Currently, I'm learning more about ReactJS, and ThreeJS. Tho I still specialize in web mainly ReactJS and Rails above all else. I'm just open to learning other tech.
+On the side, I'm building [Suikun UI](https://suikunui.joeylene.com/), my own UI kit, and [Sutle](https://sutle.io/), a platform for organizing resources into a directed learning path.
+
+Interests includes but not limited to:
+- product design, UI/UX, web development, game development, and game design.
+- traveling, reading manga / manhwa, writing / building stuff, and playing video games.
 
 # 📰 Recent News
 
+- Finished playing [A Plague Tale: Innocence](https://store.steampowered.com/app/752590/A_Plague_Tale_Innocence/).
 - Working on [Suikun UI](https://suikunui.joeylene.com/).
 - Started going to the gym and traveling within the country.
 - Done playing Dying Light.
@@ -20,15 +25,12 @@ Currently, I'm learning more about ReactJS, and ThreeJS. Tho I still specialize 
 - Done playing Life is Strange 2.
 - Done reading Lives of the Stoics.
 - Published [Creating my own UI components](https://joeylene.com/blog/2022/creating-my-own-ui-components)
-- Started learning Unity.
 - Published [Progressing Towards Dystopia](https://joeylene.com/blog/2022/progressing-towards-dystopia).
 - Published [Copy Paste - Glide Data Grid](https://joeylene.com/blog/2022/copy-paste-data-grid).
 - New portfolio at [https://joeylene.com](https://joeylene.com/).
-- Wrote [Sutle Changelog #001](https://blog.sutle.io/2022/001-changelog).
-- Started playing God of War Ragranok, streaming on Twitch.
 - Finished playing Persona 5 Royal.
 - [Sutle is now on beta](https://blog.sutle.io/2022/sutle-beta-a-fresh-redesign).
-- Recently finished playing Life is Strange True Colors.
+- Finished playing Life is Strange True Colors.
 - Built a mini Minecraft clone called [Minecrafui](https://github.com/jorenrui/minecrafui).
 
 [Read more](https://www.polywork.com/jorenrui/)
@@ -42,8 +44,9 @@ Currently, I'm learning more about ReactJS, and ThreeJS. Tho I still specialize 
 
 ## Studying
 
-- Joy of React - https://www.joyofreact.com/
-- ThreeJS Journey - https://threejs-journey.com/
+- Rails Hotwire - https://hotwire.dev/
+- ThreeJS Journey - https://threejs-journey.com/ [Almost Done]
+- Joy of React - https://www.joyofreact.com/ [Done]
 
 ### 📬 Get in Touch
 
