@@ -4,7 +4,7 @@ I'm jorenrui. Product-focused full stack developer with 3.5+ years of profession
 
 Uses code to solve mostly my own problems. Loves simplicity, focusing on the essentials, and building products. Specializes in code but also interested in a *lot* of different things.
 
-Currently working as a Sr. IC Product Engineer on a ThreeJS browser-based sandbox game at BrownBricks, previously at [Tonic Labs](https://workwithtonic.com/).
+Currently working as a Sr. IC Product Engineer on a ThreeJS browser-based sandbox game at Novablocks, previously at [Tonic Labs](https://workwithtonic.com/).
 
 I'm experienced with building products from the ground up due to working with early-stage startups.
 
@@ -16,6 +16,9 @@ Interests includes but not limited to:
 
 # 📰 Recent News
 
+- Built [Cevali](https://cevali.joeylene.com/), a small JavaScript validation library.
+- Published [Interaction](https://suikunui.joeylene.com/docs/techniques/interaction)
+- Built [Dia](https://dia.joeylene.com/), an event-based dialogue engine.
 - Finished playing [A Plague Tale: Innocence](https://store.steampowered.com/app/752590/A_Plague_Tale_Innocence/).
 - Working on [Suikun UI](https://suikunui.joeylene.com/).
 - Started going to the gym and traveling within the country.
@@ -38,13 +41,14 @@ Interests includes but not limited to:
 ### Projects
 
 - [Suikun UI](https://suikunui.joeylene.com/) - a work-in-progress UI kit.
+- [Cevali](https://cevali.joeylene.com/) - a small JavaScript validation library.
+- [Dia](https://dia.joeylene.com/) - an event-based dialogue engine.
 - [Sutle](https://sutle.io/) - platform for saving and organizing online resources into a directed learning path.
 - [Minecrafui](https://github.com/jorenrui/minecrafui) - simple Minecraft ThreeJS clone.
 - [Portfolio](https://joeylene.com/) - still building stuff and writing posts for it.
 
 ## Studying
 
-- Rails Hotwire - https://hotwire.dev/
 - ThreeJS Journey - https://threejs-journey.com/ [Almost Done]
 - Joy of React - https://www.joyofreact.com/ [Done]
 
