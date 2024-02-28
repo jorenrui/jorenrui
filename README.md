@@ -4,11 +4,11 @@ I'm jorenrui. Product-focused full stack developer with 4 years of professional 
 
 Uses code to solve mostly my own problems. Loves simplicity, focusing on the essentials, and building products. Specializes in code but also interested in a _lot_ of different things.
 
-Currently working as a Sr. IC Product Engineer on a ThreeJS browser-based sandbox game at Novablocks, previously at [Tonic Labs](https://workwithtonic.com/).
+Currently working as a Sr. Product Engineer on a ThreeJS browser-based sandbox platform at Jamango, previously at [Tonic Labs](https://workwithtonic.com/).
 
 I'm experienced with building products from the ground up due to working with early-stage startups.
 
-On the side, I'm building [Suikun UI](https://suikunui.joeylene.com/), my own UI kit, and [Sutle](https://sutle.io/), a platform for organizing resources into a directed learning path.
+On the side, I'm building [Suikun UI](https://sui.joeylene.com/), my own UI kit, and [Sutle](https://sutle.io/), a platform for organizing resources into a directed learning path.
 
 Interests includes but not limited to:
 
@@ -36,6 +36,7 @@ Interests includes but not limited to:
 
 ## Studying
 
+- Nest.js - [Doing]
 - CSS for JavaScript Developers - https://css-for-js.dev/ [Doing]
 - ThreeJS Journey - https://threejs-journey.com/ [Almost Done]
 - Joy of React - https://www.joyofreact.com/ [Done]
