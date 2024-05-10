@@ -1,14 +1,12 @@
 # Yo everyone 😎
 
-I'm jorenrui. Product-focused full stack developer with 4 years of professional experience who has TailwindCSS, TypeScript, React.js, and Rails in her toolbelt.
+I'm jorenrui. Product-focused full stack developer with 4 years of professional experience.
 
-Uses code to solve mostly my own problems. Loves simplicity, focusing on the essentials, and building products. Specializes in code but also interested in a _lot_ of different things.
+I'm currently a Sr. Product Engineer working on a browser-native gaming platform at [Jamango!](https://jamango.io/). Before, I've worked on a no-code database at [Tonic Labs](https://workwithtonic.com/).
 
-Currently working as a Sr. Product Engineer on a ThreeJS browser-based sandbox platform at Jamango, previously at [Tonic Labs](https://workwithtonic.com/).
+On the side, I play games and read books. Most of the times I'm focused working on my side projects, [Sutle](https://sutle.io/), a platform for saving and organizing online resources into a directed learning path and [Suikun UI](https://sui.joeylene.com/), a work-in-progress UI kit.
 
-I'm experienced with building products from the ground up due to working with early-stage startups.
-
-On the side, I'm building [Suikun UI](https://sui.joeylene.com/), my own UI kit, and [Sutle](https://sutle.io/), a platform for organizing resources into a directed learning path.
+https://nohello.net/
 
 Interests includes but not limited to:
 
@@ -17,6 +15,7 @@ Interests includes but not limited to:
 
 # 📰 Recent News
 
+- [Jamango!](https://jamango.io/) exits stealth mode 😎
 - Co-creating [Mini.js](https://github.com/jorenrui/minijs) - an HTML-first JavaScript state management library
 - Built [Cevali](https://cevali.joeylene.com/), a small JavaScript validation library.
 - Published [Interaction](https://suikunui.joeylene.com/docs/techniques/interaction)
@@ -33,13 +32,6 @@ Interests includes but not limited to:
 - [Sutle](https://sutle.io/) - platform for saving and organizing online resources into a directed learning path.
 - [Minecrafui](https://github.com/jorenrui/minecrafui) - simple Minecraft ThreeJS clone.
 - [Portfolio](https://joeylene.com/) - still building stuff and writing posts for it.
-
-## Studying
-
-- Nest.js - [Doing]
-- CSS for JavaScript Developers - https://css-for-js.dev/ [Doing]
-- ThreeJS Journey - https://threejs-journey.com/ [Almost Done]
-- Joy of React - https://www.joyofreact.com/ [Done]
 
 ### 📬 Get in Touch
 
